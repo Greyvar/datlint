@@ -2,7 +2,7 @@ module github.com/greyvar/datlint
 
 go 1.18
 
-replace github.com/greyvar/datlib => /home/xconspirisist/sandbox/Development/greyvar/greyvar-datlib/
+replace github.com/greyvar/datlib => ../datlib/
 
 require (
 	github.com/greyvar/datlib v0.0.0-20220723191212-08d2466064bf
