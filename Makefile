@@ -1,2 +1,2 @@
 default:
-	go build -o grevar-datlint github.com/greyvar/datlint/cmd/datlint/
+	go build -o greyvar-datlint github.com/greyvar/datlint/cmd/datlint/
